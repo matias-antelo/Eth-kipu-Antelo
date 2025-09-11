@@ -1,6 +1,4 @@
 <h2> Sobre mí </h2>
-👋 Soy Matías
-
 Soy Analista de Laboratorio con experiencia en microbiología y validaciones, y actualmente estoy expandiendo mi camino hacia el desarrollo de software.  
 
  🚀 Intereses como desarrollador
@@ -8,7 +6,7 @@ Soy Analista de Laboratorio con experiencia en microbiología y validaciones, y 
 - Desarrollo con JavaScript, Node.js, HTML, CSS y SQL.  
 
 🌐 Metas en Web3
-Estoy enfocado en aprender y crecer en el ecosistema Web3, con el objetivo de:
+- Estoy enfocado en aprender y crecer en el ecosistema Web3, con el objetivo de:
 - Desarrollar y auditar smart contracts.  
 - Contribuir a hackatones Web3 con ideas innovadoras.  
 
@@ -20,5 +18,6 @@ Estoy enfocado en aprender y crecer en el ecosistema Web3, con el objetivo de:
 
 <h3> Billetera Multifirma </h3>
 <li> 0x2B659a110241dD27de7397A2c714782C6Aa16E3a</li>
+<li> https://sepolia.etherscan.io/address/0x2B659a110241dD27de7397A2c714782C6Aa16E3a</li>
 
 ---
