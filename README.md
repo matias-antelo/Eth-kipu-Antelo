@@ -9,7 +9,8 @@ Soy Analista de Laboratorio con experiencia en microbiología y validaciones, y 
 - Estoy enfocado en aprender y crecer en el ecosistema Web3, con el objetivo de:
 - Desarrollar y auditar smart contracts.  
 - Contribuir a hackatones Web3 con ideas innovadoras.  
-<br> 
+<br>
+ 
 ---
 
 <h3> Billetera Metamask </h3>
